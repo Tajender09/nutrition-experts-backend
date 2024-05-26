@@ -3,7 +3,7 @@
 .eslintrc
 .eslintignore
 .strapi*
-package-lock
+package-lock.json
 
 ############################
 # OS X
